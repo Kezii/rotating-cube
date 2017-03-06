@@ -1,0 +1,23 @@
+{
+  "name": "coso",
+  "authors": [
+    "Me"
+  ],
+  "description": "",
+  "main": "",
+  "license": "GPL v3",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dat.gui": "*",
+    "three.js": "threejs#*",
+    "threejs": "*"
+  }
+}
